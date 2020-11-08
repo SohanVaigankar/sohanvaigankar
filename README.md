@@ -1,6 +1,6 @@
 ## Hi there, I'm **Sohan Vaigankar**
 
----
+
 
 ### I'm currently pursuing bachelors degree in Computer Engineering
 
