@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently exploring JavaScript world
 - 🔭 Right now, I'm redesigning and upgrading my past few projects
-- 👯 Got a project to work on? I'd love to collaborate. Just drop a DM
-- 🥅 2020 Goals: Want to cover a good part of Back-end Web Dev by the end of this year
+- 👯 Got a project to work on? I'd love to collaborate. Just drop a DM on twitter
+- 🥅 2021 Goals: Want to cover a good part of Back-end Web Dev by the end of this year
 
 ### Connect with me:
 
