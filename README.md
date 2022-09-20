@@ -1,13 +1,12 @@
-## Hi there, I'm **Sohan Vaigankar**
+## Hi there, I'm **Sohan**
 
 
 
-### I'm currently pursuing bachelors degree in Computer Engineering
+### I make websites and sometimes burn my money in stock market
 
-- 🌱 I’m currently exploring JavaScript world
+- 🌱 I’m currently exploring react.js and looking for a front-end role
 - 🔭 Right now, I'm redesigning and upgrading my past few projects
 - 👯 Got a project to work on? I'd love to collaborate. Just drop a DM on twitter
-- 🥅 2021 Goals: Want to cover a good part of Back-end Web Dev by the end of this year
 
 ### Connect with me:
 
@@ -21,6 +20,6 @@
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.sohanvaigankar.vercel.app/api?username=sohanvaigankar&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/sohanvaigankar
+[twitter]: https://twitter.com/sohanv_
 [instagram]: https://instagram.com/sohanvaigankar
 [linkedin]: https://linkedin.com/in/sohanvaigankar
