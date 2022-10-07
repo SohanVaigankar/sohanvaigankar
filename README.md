@@ -14,12 +14,6 @@
 [<img align="left" alt="Sohan Vaigankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sohan Vaigankar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-<br />
-<br />
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.sohanvaigankar.vercel.app/api?username=sohanvaigankar&show_icons=true&hide_border=true" />
-
 [twitter]: https://twitter.com/sohanv_
 [instagram]: https://instagram.com/sohanvaigankar
 [linkedin]: https://linkedin.com/in/sohanvaigankar
